@@ -1,0 +1,4 @@
+Walk 10,000 steps daily|Health & Fitness|31-08-2026|25|false
+Build Consistent Study Habit|Education|09-07-2026|13|false
+Drink more water|Health & Fitness||100|true
+Sleep before 11PM|Health & Fitness|30-12-2026|62|false
